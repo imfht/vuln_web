@@ -1,0 +1,55 @@
+ (TEG-\w+) \
+ =s p/Wirehog http transfer interface/ i/InkHTTP $1; Python $2/ cpe:/a:python:python:$2/
+ Gigabit)? Powerline Extender (PA[\w._-]+)\"\r\n% p/TP-LINK $1 powerline extender http config/ d/switch/ cpe:/h:tp-link:$1/
+ TW100-BRF114 \
+ WIRELESS AP : LOGIN</title>=s p/CAMEO httpd/ i/D-Link DAP-1360 WAP http config/ d/WAP/ cpe:/h:dlink:dap-1360/
+ WIRELESS AP \
+ WIRELESS ROUTER  :\n\t\t Login\n\t</title>=s p/Ubicom httpd/ v/$1/ i/D-Link DIR-655 WAP http config/ d/WAP/ cpe:/a:ubicom:httpd:$1/ cpe:/h:dlink:dir-655/a
+ WIRELESS ROUTER  :\r\n         Login\r\n    </title>%s p/Ubicom httpd/ v/$1/ i/D-Link $2 WAP http config/ d/WAP/ cpe:/a:ubicom:httpd:$1/ cpe:/h:dlink:$2/a
+ WIRELESS ROUTER  :\r\n         Login\r\n    </title>=s p/Ubicom httpd/ v/$1/ i/D-Link DIR-655 WAP http config/ d/WAP/ cpe:/a:ubicom:httpd:$1/ cpe:/h:dlink:dir-655/a
+ WIRELESS ROUTER :\r\r\nLogin\r\r\n</title>=s p/Ubicom httpd/ v/$1/ i/D-Link WAP http config/ d/WAP/ cpe:/a:ubicom:httpd:$1/
+ Wireless(?: N)?) Powerline Extender (WPA[\w._-]+)\"\r\n% p/TP-LINK $1 powerline extender http config/ d/WAP/ cpe:/h:tp-link:$1/
+%(?!2526))+?)%2526alias%253D([\w._-]+)%2526r0%253D@ p/SonicWall SSL VPN/ i
+([\w._-]+)\) - Freenet</title>=s p/Freenet FProxy/ i/node id $1/
+)LaserJet ([\w._ -]+)&nbsp;&nbsp;&nbsp;%si p/Virata-EmWeb/ v/$SUBST(1,"_",".")/ i/HP $2LaserJet $3 printer http config/ d/printer/ cpe:/a:virata:emweb:$SUBST(1,"_",".")/a
+)\r\n220-version: XBFileZilla version ([\d.]+), \(based on FileZilla Server ([\d.]+)\)\r\n220 http://sourceforge\.net/projects/xbfilezilla\r\n= p/XBFileZilla/ v/$1/ i/Based on FileZilla $2/ cpe:/a:xbmc:xbfilezilla:$1/
+)\r\n220-version: XBMC:FileZilla version ([\d.]+), \(based on FileZilla Server ([\d.]+)\)\r\n220 http://sourceforge\.net/projects/xbfilezilla\r\n= p/XBFileZilla/ v/$1/ i/Based on FileZilla $2/ cpe:/a:xbmc:xbfilezilla:$1/
+172\.(?:1[6-9]
+404)" />\n</head>.*href="/cgi-bin/luci">%s p/LuCI Lua http config/
+5 Method Not Allowed)\r\nContent-Length: 51\r\nContent-Security-Policy: default-src 'self' 'unsafe-inline'; img-src 'self' blob:; frame-ancestors 'self'\r\nX-Frame-Options: SAMEORIGIN\r\nContent-Type: text/html; charset=utf-8\r\nDate: .*\r\n\r\n<html><body>HTTP Method not supported</body></html>% p/Greenbone Security Assistant/ cpe:/a:greenbone:greenbone_security_assistant/
+<(?!/head>))*?<style>\nbody \{ background-color: #fcfcfc; color: #333333; margin: 0; padding:0; \}\nh1 \{ font-size: 1\.5em; font-weight: normal; background-color: #9999cc; min-height:2em; line-height:2em; border-bottom: 1px inset black; margin: 0; \}\nh1, p \{ padding-left: 10px; \}\ncode\.url \{ background-color: #eeeeee; font-family:monospace; padding:0 2px;\}\n</style>=s p/PHP cli server/ v/5.5 or later/ cpe:/a:php:php/
+<(?!/head>))*?<style>\nbody \{ background-color: #ffffff; color: #000000; \}\nh1 \{ font-family: sans-serif; font-size: 150%; background-color: #9999cc; font-weight: bold; color: #000000; margin-top: 0;\}\n</style>=s p/PHP cli server/ v/5.4/ cpe:/a:php:php:5.4/
+AP) ([\w._/-]+)(?:http://www\.tp-link\.com)?, UPnP/([\d.]+)\r\n= p/TP-LINK $1 WAP upnp/ i/UPnP $2/ d/WAP/ cpe:/h:tp-link:$1/
+Aastra) (\w+(?: CT)?)"\r\n% p/$1 $2 VoIP phone http admin/ d/VoIP phone/ cpe:/h:$1:$2/
+Access) [Dd]enied\r\nDate: .*\r\nCache-control: no-store, no-cache\r\nContent-Type: text/html\r\nContent-Length: \d+\r\nServer: WinGate Engine\r\n\r\n= p/WinGate http proxy/ o/Windows/ cpe:/o:microsoft:windows/a
+Color Laser
+Enterprise) Edition Portal ([\d.]+) (?:[A-Z]E )?([A-Z]{1,2}\d+)=s p/Liferay Portal $2 Edition/ v/$3 $4/ i/JBoss WildFly Application Server $1/ cpe:/a:liferay:liferay_portal:$3:$4:$2/ cpe:/a:redhat:jboss_wildfly_application_server:$1/
+Free Edition)% p/Burp Suite $1 http proxy/ cpe:/a:portswigger:burp_suite:::$1/
+Free Edition)</title>= p/Burp Suite $1 http proxy/ cpe:/a:portswigger:burp_suite:::$1/
+HNM)</title>\n\t\t<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\n\t\t<meta http-equiv=\"Content-language\" content=\"fr\">\n\t\t<meta name=\"author\" content=\"Nicolas VIVIEN\">\n\t\t<meta name=\"Copyright\" content=\"SAGEM COMMUNICATIONS\">%s p/Sagem Livebox WAP http config/ d/WAP/
+HTTP/1\.0 200 OK\r\nConnection: Close\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n<html>.*for \(var i = 0; i < QueryString\.keys\.length; i\+\+\) {\n
+LOCATION): .+/UE/welcome_login\.html=s p/Allegro RomPager/ i/Siemens Gigaset SX762 WAP http config/ d/WAP/ cpe:/a:allegro:rompager:$1/ cpe:/h:siemens:gigaset_sx762/a
+LabVIEW)\)\r\n= p/National Instruments LabVIEW service locator httpd/ v/$1/ cpe:/a:ni:labview:$1/
+MFP )?- \w+; Serial Number: (\w+);=s p/HP $1 printer http config/ i/Serial $2/ d/printer/ cpe:/h:hp:$1/
+MFP)</title>=s p/$1/ v/$2/ i/Dell $3 printer http config/ d/printer/ cpe:/h:dell:$3/
+MINOLTA-QMS) magicolor (\w+ DL) </TITLE>\r\n=s p/Konica Minolta Magicolor $1 printer http config/ d/printer/ cpe:/h:konicaminolta:magicolor_$1/a
+N/A
+No such file or directory\.)$= p/Fnord httpd/
+Object) [Mm]oved\r\nServer: Cisco AWARE ([-\w_.]+)\r\n= p/Cisco ASA firewall http config/ i/Cisco AWARE $1/ d/firewall/ o/IOS/ cpe:/o:cisco:ios/a
+P2P)\"\r\n% p/MLDonkey multi-network P2P web interface/
+Pro) for 3d printer">% p/Repetier Server $2 3d printer controller/ v/$1/ cpe:/a:hot-world:repetier_server:$1::$2/
+Proxy-agent): iPlanet-Web-Proxy-Server/([\d.]+)\r\n=s p/iPlanet web proxy/ v/$1/ cpe:/a:sun:iplanet_web_server:$1/
+READY)</TITLE><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"></HEAD>\r\n<BODY><CENTER>\r\n<IMG SRC=\"logo\.png\" ALT=\"\[Logo\]\">\r\n<H1>Zebra Technologies<BR>\r\nZTC ([\w -]+)</H1>% p/Zebra $1 label printer http config/ d/printer/ cpe:/h:zebra:$1/
+Sick-Beard)/cherrypy)/wsgiserver/__init__\.py\", line \d+, in communicate\n= p/CherryPy/ i/Sick Beard PVR; path: $1/ cpe:/a:cherrypy:cherrypy/
+WGU)\w+)\"\r\nServer: Embedded HTTPD v([\w._-]+), % p/Delta Networks Embedded HTTPD $2/ i/Netgear $1 router http config/ d/broadband router/ cpe:/h:netgear:$1/
+\
+\(http://dunkels\.com/adam/uip/\))\r\n= p/uIP/ v/$1/ cpe:/a:adam_dunkels:uip:$1/
+\d+-\d+), Fuji Xerox Co\., Ltd\. All Rights Reserved\. -->.*<TITLE>\r\nDocument Centre (\w+) - [\d.]+\r\n</TITLE>=s p/FujiXerox Document Centre $1 http config/ d/printer/
+\d\.\d+)\S*) DoaHTTP\r\nContent-Length: 0\r\nDate: .* GMT\r\n\r\n$% p/com.sec.android.app.FileTransferServer/ i/Linux $1/ o/Android/ cpe:/o:google:android/ cpe:/o:linux:linux_kernel:$2/
+\r\n\t\t Login\r\n\t</title>=s p/Ubicom httpd/ v/$1/ i/TRENDnet TEW-$2 WAP http config/ d/WAP/ cpe:/a:ubicom:httpd:$1/
+\x07version\x04bind\0\0\x10\0[\x01\x03]\xc0\x0c\0\x10\0[\x01\x03].{7}Served by PowerDNS - https?://www\.powerdns\.com/?
+\xb5\xe2\xe2\xe2\xca\xa2\x8e\xd4RRCCC\xdeb\"\xa5\xa5\xa5\xe7\xc5= p/Tweak XP web advertisement blocker/
+application/x-ogg)\r\nConnection: close\r\nPragma: no-cache\r\nCache-Control: no-cache, no-store\r\n\r\n= p/mpd/ i/Music Player Daemon streaming media server/
+http://etherpad\.org)\)\r\n= p/Etherpad lite/ v/$1/
+nonauth/nohost\.php)\r\n\r\n= p/Kerio WinRoute http proxy/ o/Windows/ h/$1/ cpe:/o:microsoft:windows/a
+us-ascii)\r\n\r\n<html><body>Invalid request<P><HR><i>This message was created by WinRoute Proxy</i></body></html>% p/WinRoute http proxy/ o/Windows/ cpe:/o:microsoft:windows/a

@@ -1,0 +1,663 @@
+<!DOCTYPE html PUBLIC "-//W3C//Dtd XHTML 1.0 Strict//EN" "http://www.w3.org/tr/xhtml1/Dtd/xhtml1-Transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="utf-8" lang="utf-8" dir="ltr">
+<head>
+<title>GPON Home Gateway</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="refresh" content="0; url=/login.html" />
+</head>
+<body>
+</body>
+
+
+<p hidden="hidden" id="hello">
+    SGVsbG{delete}8gR3V5cywgUGxlYXNlIGZlZWwgZnJlZSB0byBjb250YWN0IHdpdGggbWUsIGFuZCBteSBjb250YWN0IGRldGFpbHMgYXMgc2hvd24gYmVsb3cuCiMgR2l0aHViL1R3aXR0ZXI6IEB6b20zeTMKIyBFbWFpbDogem9tM3kzQGdtYWlsLmNvbQ==
+</p>
+
+<p hidden="hidden" id="title">
+    <!--
+  <title>
+  28ZE
+  300Mbps Wireless N ADSL2+ Modem Router TD-W8960N
+  ::: Login :::
+  ADSL2 PLUS
+  AGS GmbH Webserver Setup
+  AIROS
+  AN550602B
+  Account Suspended
+  Apache Tomcat
+  AsicMiner
+  BaseDashboard
+  Braunschweiger Seven Stammtisch
+  C3T Routers
+  CRM - Welcome
+  Center of Inspiration
+  Channel management
+  Chaparral Wireless
+  Costume Designers Guild | IATSE local 892
+  D-LINK SYSTEMS, INC. | WIRELESS ROUTER | HOME
+  DIR600 1
+  DIR-615 DLINK
+  DLINK DIR-905L
+  DSL Router
+  DSL Router - GKM 1220
+  DVR Components Download
+  Dlink DIR-610
+  Dlink DIR-611
+  ELSYS CPE-2N
+  F609
+  FiberHome AN5506-02-B, hardware: GJ-2.134.321B7G, firmware: RP2520
+  FiberLink101
+  GOTHAN
+  GPON Home Gateway
+  GREATEK
+  GWR-120
+  Game of Life
+  Gial Plast
+  GoAhead-Boa
+  GoAhead-Webs
+  GoAhead-Webs Routers
+  GoAhed 302
+  HD
+  Home - B52
+  Home - International Club Winterthur
+  Home page
+  HtmlAnvView:D7B039C1-5929-49B3-913E-EB62C8866FC4
+  IIS7
+  IIS Windows Server
+  IP Camera
+  IPCam Client
+  IPOX
+  Infipix
+  Intelbras
+  Just another WordPress site
+  KP8696X
+  Link One
+  Linksys Smart Wi-Fi
+  Login
+  Mini_httpd
+  Multilaser Router
+  NAS
+  NETSurveillance WEB
+  NETSuveillance WEB
+  Net Systems Research
+  Network Video Recorder Login
+  OIWTECH
+  PLC Wireless Router
+  PROVERLINK TELECOM
+  PayNet
+  PellesWeb
+  Proqualit Router
+  Realtek Semiconductor
+  Realtek Semiconductor [Title]
+  Roteador ADSL
+  Roteador Wireless KLR 300N
+  Roteador Wireless N 150 Mbps
+  Roteador Wireless N 150Mbps
+  Roteador Wireless N 300 Mbps
+  Roteador Wireless N 300 Mbps [ LinkOne ]
+  Roteador Wireless N 300 Mbps [Link One]
+  Roteador Wireless N ( MultiLaser )
+  Roteador Wireless N [ MultiLaser ]
+  RouterOS router configuration page
+  Server - Synology RackStation
+  Sicetelecom.it - HIPERLINK MANAGEMENT
+  Siemens
+  Sony Network Camera SNC-RZ30
+  Spark WebServer
+  Succession2 - Synology DiskStation
+  Swagger UI
+  System dashboard - JIRA
+  TENDA
+  TL-WR740N / TL-WR741ND
+  TL-WR840N
+  TL-WR849N
+  TP-LINK Nano WR702N
+  TP-LINK Roteador Wireless
+  TP-LINK Roteador Wireless N WR741ND
+  TP-LINK TL-WR941HP
+  TP-LINK WR340G
+  TP-LINK WR720N
+  TP-LINK WR740N
+  TP-LINK WR741N
+  TP-LINK WR743ND
+  TP-LINK WR840N
+  TP-LINK WR841HP
+  TP-LINK WR841N
+  TP-LINK WR940N
+  TP-LINK WR941N
+  TP-LINK WR949N
+  TP-LINK Wireless AP WA5210G
+  TP-LINK Wireless Lite N Router WR740N
+  TP-LINK Wireless Lite N Router WR749N
+  TP-LINK Wireless N Gigabit Router WR1043ND
+  TP-LINK Wireless N Router WR841N/WR841ND
+  TP-LINK Wireless N Router WR845N
+  TP-LINK Wireless N Router WR941ND
+  TP-LINK Wireless Router
+  Tangible Interfaces
+  Teltonika Hotspot
+  Teltonika-RUT950.com - Web UI
+  Tenda Web Master
+  TimDSL
+  Titan ES
+  UCRM
+  WEB SERVICE
+  WLAN AP Webserver
+  Web Client
+  Web Server Setup Guide
+  Web Viewer for Samsung NVR
+  Welcome to nginx!
+  Wireless Router
+  Wireless Router
+  Wireless-N Router
+  YOU NET TELECOM
+  ZNID
+  ZXHN H108N V2.5
+  ZXV10 H108L
+  [controllr.netmontes.com.br] - Controllr
+  ePMP
+  index
+  macroscop
+  main page
+  mikrotik routeros > administration
+  nas-helvetika - Synology DiskStation
+  sycasa - Synology DiskStation
+  vTiger CRM 5 - CRM Commerciale Open Source
+  </title>
+  -->
+</p>
+
+<p hidden="hidden" id="text">
+    <!--
+  0,0 );
+  0MLog
+  28fa362bb88ef2653463e6bd9dc07227
+  50c7a791a56880e321f0ba35f7710752
+  202cb962ac59075b964b07152d234b70
+  610cker
+    </td>
+  <meta name="application-name" content="JIRA" data-name="jira" data-version="7.2.6"><meta name="ajs-dev-mode" content="false">
+    <br>Cisco, Cisco Systems, and the Cisco Systems logo are registered trademarks or trademarks of Cisco Systems, Inc. and/or it's affiliates in the United States and certain other countries.
+  "asjhj",
+  "build_hash" : "e43676b1385b8125d647f593f7202acbd816e8ec",
+  "build_snapshot" : false,
+  "build_timestamp" : "2015-09-14T09:49:53Z",
+  "cluster_name" : "elasticsearch",
+  "lucene_version" : "4.10.4"
+  "name" : "node1",
+  "number" : "1.7.2",
+  "status" : 200,
+  "tagline" : "You Know, for Search"
+  "version" : {
+  :no
+  ;
+  ; Asterisk Call Management support
+  ; Each user has a section labeled with the username
+  ; so this is the section for the user named "mark"
+  ;deny=0.0.0.0/0.0.0.0
+  <script LANGUAGE=JavaScript>
+  window.location="/global-protect/login.esp";
+  </script>
+  <html><head></head><body><p>JavaScript must be enabled to continue!</p></body></html>
+  </HEAD></HTML>
+  <H1>Index of /mnt/web/</H1>
+  <HTML><HEAD><script>top.location.href='/Main_Login.asp?error_status=1&page=index.asp&lock_time=0';</script>
+  <ModelName>WRT110</ModelName>
+  <NewUserpassword>455</NewUserpassword>
+  <a href="http://mikrotik.com"><img src="mikrotik_logo.png" style="float: right;" /></a>
+  <a style="color: white; text-decoration: none" href="/cgi-bin/luci">Wait for configuration</a>
+  <button data-drupal-selector="edit-submit" class="button js-form-submit form-submit btn-default btn" type="submit" id="edit-submit" name="op" value="Subscribe">Subscribe</button>
+  <div id="menu" class="topmenucontainer" style="display:none;"><div class="modelname">DIR-600</div>
+  <div id="menu" class="topmenucontainer" style="display:none;"><div class="modelname">DIR-629</div>
+  <div class="wiki-content">
+  2023243000
+            </div>
+  <div class="wiki-content">
+  <web-app
+            </div>
+  <footer class="teltonika"><a1>Teltonika solutions </a1><a target="_blank" href="http://www.teltonika.lt/">www.teltonika.lt</a>
+  <form name="frm" id="frm" method="post" action="login.php">
+  <form name="pagepost" method="post" action="/xslt?PAGE=WRA01_POST&NEXTPAGE=WRA01_POST" id="pagepost">
+  <h1>RouterOS v6.36.4</h1>
+  <html ng-app="solrAdminApp">
+  <meta http-equiv="refresh" content="0; URL=/cgi-bin/luci" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <p><a href="//mnt/web/.">.</a></p>
+  <p><a href="//mnt/web/..">..</a></p>
+  <report>OK</report>
+  <string id="IDS_GETDDNSTIPS">Your camera do not have a Foscam DDNS！You can get a DDNS for free by click "Get My DDNS Now".</string>
+  <td valign="bottom" height="20" class="Copyright" colspan="3" style="text-align:justify">© 2015 Cisco Systems, Inc. All Rights Reserved.
+  <textarea cols="" rows="" id="Frm_CmdAck" class="textarea_1">sadjashj</textarea>
+  <title>NETSurveillance WEB</title>
+  <title>Network Video Recorder Login</title>
+  <title>RouterOS router configuration page</title>
+  <title>Solr Admin</title>
+  <title>Teltonika-RUT950.com - Web UI</title>
+  <title>Web Client</title>
+  <tr><td colspan="3"><h2>WebFig Login:</h2>
+  ABCZ
+  Adm_ID
+  Admin:
+  CGISESSID
+  CP Plus DVR - Web View
+  Command was: show startup-config
+  ConfigSystemCommand
+  Connecting to
+  D-Link
+  D-Link VoIP Wireless Router
+  DDNSSetting
+  DVR Components Download
+  DVR WebClient
+  DahuaRtsp
+  DeviceBasicInfo
+  DhWebCookie
+  Dreambox
+  EdmWebVideo
+  Error: username or password error,please input again.
+  Follow administrator instructions to enter the complete path
+  Frm_Logintoken").value = "12324";
+  H0m3l4b1t: YES
+  Hello
+  Hello: World!
+  Hostname: HACKED-ROUTER-HELP-SOS-DEFAULT-PASSWORD
+  Invalid credentials for user
+  JAWS/
+  Linksys
+  Linksys SPA Configuration
+  Linux Ubuntu 4.4.0-101-generic #124-Ubuntu SMP Fri Nov 10 18:29:59 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+  Location: http://192.168.1.1/home_H1.asp
+  MLog
+  Macrec DVR - Web view
+  NAME="OldPwd"
+  NETGEAR R6400
+  NETGEAR R7000
+  NetDvrV3
+  P-660HN-T1A_IPv6
+  PassPhrase
+  Repetidor Wireless TP-LINK WA850RE
+  RomPager
+  Ruckus Wireless Admin
+  SSID
+  Server
+  Struts2045
+  The Cross Web Server
+  There is a loop in network for HTTP traffic. Check your network topology and proxy & firewall configuration
+  Update Success!
+  UseUserCredential
+  User Password
+  UserSetSetting
+  WPAPSK
+  WWW-Authenticate
+  WWW-Authenticate: Basic realm="netcam"
+  Web Client for EDVS/EDVR
+  X-Content-Powered-By: K2 v2.8.0 (by JoomlaWorks)
+  XWebPlay
+  You have logged out of the Cisco Router.
+  ZyXEL P-660HN-T1A
+  [error]0
+  [fonts]
+  [general]
+  [mark]
+  \u0022ECOR264
+  \u0022NETGEAR
+  \x11\x44\x75\x63\x6b\x79\
+  ad43fd99987a8f6a648abe05095bf52c
+  admin:
+  backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
+  bin:x:2:2:bin:/bin:/usr/sbin/nologin
+  bindaddr = 0.0.0.0
+  d41d8cd98f00b204e9800998ecf8427e
+  daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+  ddns
+  deadbeaf
+  dgn123456
+  diag_result = "";
+  document.write('<span><font color="#006699" style="font-family:Arial;font-size:20px;">Home Gateway</font></span>');
+  document.write('<span><font color="#006699" style="font-family:Arial;font-size:28px;"><b>家 庭 网 关</b></font></span>');
+  else if (lang == 'zh')
+  empty or is not available to view
+  enabled = yes
+  ength: 11
+  games:x:5:60:games:/usr/games:/usr/sbin/nologin
+  gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/usr/sbin/nologin
+  home_wan.htm
+  if (lang == 'en')
+  irc:x:39:39:ircd:/var/run/ircd:/usr/sbin/nologin
+  java.lang.ProcessBuilder
+  jaws123456
+  lighttpd/1.4.34
+  linux--2017
+  list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
+  login
+  login:
+  lp:x:7:7:lp:/var/spool/lpd:/usr/sbin/nologin
+  ls3k
+  mail:x:8:8:mail:/var/mail:/usr/sbin/nologin
+  man:x:6:12:man:/var/cache/man:/usr/sbin/nologin
+  news:x:9:9:news:/var/spool/news:/usr/sbin/nologin
+  nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+  nuuo123456
+  omg1337hax
+  password
+  password:
+  permit=0.0.0.0/0.0.0.0
+  permit=127.0.0.1/255.255.255.0
+  phpmyadmin
+  port = 5038
+  pppoe_password
+  proxy:x:13:13:proxy:/bin:/usr/sbin/nologin
+  pwdAdmin
+  pwdAdmin = 123
+  pwdSupport
+  pwdSupport = 123
+  pwdUser
+  pwdUser = admin
+  read = system,call,log,verbose,command,agent,user,originate
+  report.db.server.name
+  report.db.server.sa.pass
+  report.db.server.user.pass
+  root:
+  root:x:0:0:root:/root:/bin/bash
+  secret = p@ssword!
+  status="doing"
+  success
+  sync:x:4:65534:sync:/bin:/bin/sync
+  sys:x:3:3:sys:/dev:/usr/sbin/nologin
+  szPassword
+  szUsername
+  tomcat
+  uucp:x:10:10:uucp:/var/spool/uucp:/usr/sbin/nologin
+  var COPYRIGHT_YEAR = "2013";
+  var DEFAULT_LANG = "en";
+  var DEFAULT_PASSWD = "admin";
+  var NEED_UPLOAD_FROM_DISK = true;
+  var OEM_TYPE = false;
+  var PROJECT_NAME = "NVRmini 2";
+  var SUPPORT_ABNORMAL_DISK_EVENT = true;
+  var SUPPORT_BUILDIN_DHCP = false;
+  var SUPPORT_DAILY_SYSTEM_REPORT = true;
+  var SUPPORT_HW_LOG = true;
+  var SUPPORT_IO = true;
+  var SUPPORT_LICENSE_TRANSFER = true;
+  var SUPPORT_LOCAL_DISPAY = false;
+  var SUPPORT_NETWORK_SETTING = true;
+  var SUPPORT_OVERHEAT_EVENT = true;
+  var SUPPORT_POS = true;
+  var SUPPORT_POWER_ON_EVENT = true;
+  var SUPPORT_RAID_SETTING = true;
+  var SUPPORT_SYSTEM_SETTING = true;
+  var SUPPORT_TRIAL = false;
+  var SUPPORT_WEB_SERVICE = true;
+  var VENDOR_CONTACT_WINDOW = "www.nuuo.com/eHelpdesk.php";
+  var VENDOR_DISPLAY_NAME = "NUUO";
+  var VENDOR_NAME = "NUUO";
+  var XOntName = 'GPON Home Gateway';
+  var cmdResult = new Array(
+  var gHashCookie = new Hash.Cookie('WebClientCookie', {duration:30});
+  var refreshUrl = "/view/view.shtml?id=665";var questMark = refreshUrl.indexOf('?') < 0 ? "?" : "&";var imagepath = "/mjpg/video.mjpg";var completePath = "imagepath=" + encodeURIComponent(imagepath) + "&size=1";if (refreshUrl.indexOf("view.shtml") >= 0) {window.location.href = refreshUrl + questMark + completePath;}else {window.location.href = refreshUrl;}
+  webenabled = no
+  windows--2017
+  write = system,call,log,verbose,command,agent,user,originate
+  www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
+  },
+  -->
+</p>
+
+<p hidden="hidden" id="device">
+    <!--
+  016007844182,UPnP1.1 Compliant Media Server from CISCO STBID:2202275802
+  2003server的酷狗,Kugou
+  <meta id="confluence-base-url" name="confluence-base-url" content="http://srv4.anderl-it.de:8089">
+  <meta id="confluence-context-path" name="confluence-context-path" content="">
+  <title>Log In - Confluence</title>
+  AC-D7111IR1,UPnP IPNC Device
+  ALFA-R36,USB Wi-Fi Router
+  ATV@100,WaxRainPlayer
+  AXIS M3004 - ACCC8E169710,AXIS M3004 Network Camera
+  Air5021,AirTies Wireless Networks Router
+  All Cast[Q17130704],DLNA Media Render
+  Archer_C20,AC750 Wireless Dual Band Router
+  Archer_C50,Двухдиапазонный беспроводной маршрутизатор AC1200
+  BRCM-DMS:10,Broadcom Digital Media Server Ver 1.0
+  Broadcom ADSL Router,Broadcom single-chip ADSL router
+  CAM6082QIR,MAC:00-0F-0D-2A-64-37
+  ChinaNet EPON Router,China Telecom EPON router
+  ChinaTelecom E8C(EPON) Gateway,(null)
+  D88068C10018F51333C0,Digital Video Recorder
+  D94027C10018F51353EE,Digital Video Recorder
+  D-Link ADSL Router,DSL-2750B
+  D-Link DSL-225,DSL-225
+  D-Link DSL-2730U,D-Link DSL-2730U
+  D-Link DSL-2750U,D-Link DSL-2750U
+  D-link ADSL Router,(null)
+  DEL1202-T10B/B,802.11n ADSL2+ 4-port Wi-Fi Gateway
+  DLNA-Player-MediaCenter,Intel AV Media Renderer device
+  DS1517 (DS1517+),Synology NAS
+  DS-7104HGHI-E1 192.168.1.108,Digital Video Recorder
+  DVR (192.168.20.153),"DVR/Tilt"
+  DataServer (DS216se),Synology NAS
+  DiskStation (DS114),Synology NAS
+  DiskStation (DS3617xs),Synology NAS
+  DiskStation,Synology DLNA/UPnP Media Server
+  DockerDSM1,Synology DLNA/UPnP Media Server
+  EFM Networks ipTIME N704V,EFM Networks ipTIME N704V
+  Eltex GPON ONT,(null)
+  Emby - ns340537,UPnP/AV 1.0 Compliant Media Server
+  F660,ZTE Broadband Home Gateway
+  FSO1,Simultaneous Dual-Band Wireless-AC Gigabit Router
+  FStorage
+  FU HDTVI 8008F1-S2 192.168.1.109,Digital Video Recorder
+  Factory (DS214),Synology NAS
+  GSDS-86308 192.168.1.110,Digital Video Recorder
+  H7:219.78.57.135,AV Media Renderer Device
+  H108N,Broadband System
+  HD-TVI 8016 192.168.1.109,Digital Video Recorder
+  HDS-7204TVI-HDMI 192.168.1.10,Digital Video Recorder
+  HDS-7204TVI-HDMI/K 192.168.100.89,Digital Video Recorder
+  HDS-7208TVI-HDMI 192.168.100.100,Digital Video Recorder
+  HDS-7208TVI-HDMI/N 192.168.1.188,Digital Video Recorder
+  HDS-N9632I-4K/8HD 192.168.100.101,Digital Video Recorder
+  HDVR(74.129.35.117),UPnP Device
+  HIKVISION DS-2CD2420F-IW - C17064308,IP Camera
+  HIMEDIA(Q5)
+  HIMEDIA(TV Box@139),Rockchip Media Renderer, DLNA(DMR)
+  HK-VT7116 192.168.1.64,Digital Video Recorder
+  Heather,NVR
+  HiMultiScreen,UPnP HiMultiScreen Device 1.0
+  IMP-1
+  IPTV+572659
+  IX380,ZTE Fixed Wireless Terminal
+  LILIN NVR116 192.168.2.50,1080P Real-time Multi-touch Standalone NVR
+  LTD8304T-FT 10.1.10.150,Digital Video Recorder
+  Lebo-Media Renderer
+  LiShan (DS916+),Synology NAS
+  Linksys08686,Simultaneous Dual-Band Wireless-AC Gigabit Router
+  Linux Internet Gateway Device,WAN Device on Linux IGD
+  Linux router,Linux router
+  Living Room 1_1460(HiMediaRender)
+  Living Room 1_1625,UPnP HiMultiScreen Device 1.0
+  Media Renderer Device
+  MediaCenter-664243ec,Rockchip Media Server, DLNA(DMS)
+  Model: LW-N605R
+  N4560,N4560 IP Storage Server
+  NAS138CB5
+  NASC262E2
+  NASDD789E
+  NETCORE NI360 S3,NETCORE NI360 S3
+  NETCORE NR235W,NETCORE NR235W
+  NETCORE NR236W,NETCORE NR236W
+  NETCORE NR255-V,NETCORE NR255-V
+  NETCORE NR256,NETCORE NR256
+  NETCORE NR266,NETCORE NR266
+  NETCORE NR286,NETCORE NR286
+  NETCORE NR289-GE,NETCORE NR289-GE
+  NETCORE NW715P,NETCORE NW715P
+  NETCORE NW735,NETCORE NW735
+  NETCORE NW736,NETCORE NW736
+  NETCORE T1,NETCORE T1
+  NETIS RX30,NETIS RX30
+  NETIS WF2409,NETIS WF2409
+  NETIS WF2409/WF2409D,NETIS WF2409/WF2409D
+  NETIS WF-2409,NETIS WF-2409
+  NS-YN201,wifi router
+  NoName,PSTEK Digital Signage
+  OPS-DRD (199.72.57.76),AV Media Renderer Device
+  P-2612HNU-F1F,WAN Device
+  PC-LIGUOPENG,Hikvision UPNP Agent for Depolyer
+  Planet Wireless Fiber Router,Planet Wireless Fiber Router
+  Plex Media Server: HomeServer,Plex Media Server
+  Plex Media Server: NAS_CIFS,Plex Media Server
+  Plex Media Server: homeserver,Plex Media Server
+  Plex Media Server: ns3029989.ip-91-121-88.eu,Plex Media Server
+  Plex Media Server: plexnifique,Plex Media Server
+  Q6IIemmc,UPnP HiMultiScreen Device 1.0
+  QDlna AV Media Renderer Device
+  QTECH,(null)
+  Qnap
+  QxBox DLNA_Global_Edition_S800
+  RT2880 Linux Internet Gateway Device,RT2880 802.11 SoC Solution
+  RT-212,AirTies Wireless Networks Router
+  RT-AC55UHP,RT-AC55UHP
+  RT-AC66U,RT-AC66U
+  RT-N10PV2,RT-N10PV2
+  RT-N10U,RT-N10U
+  RT-N12,RT-N12
+  RT-N12VP,RT-N12VP
+  RackStation (RS2416RP+),Synology NAS
+  RalinkAPS,Ralink AP WSC device
+  Realtek 960: Realtek Media Render,Intel DLNA DMR Using Auto-Generated UPnP Stack
+  Rt47 @ Petersburg - 471034,Siqura multi-codec VideoEncoder
+  Rt47 @ Rt347 MM31.8 - 402067,Siqura multi-codec VideoDecoder
+  SECOM NVR104,1080P Real-time Multi-touch Standalone NVR
+  SMC-WGR14S-N3,SMC AP WSC device
+  SMCI_0:25:90:22:27:44,IPMI Console
+  SMCWBR14S-N4,150 Mbps 4-Port Wireless Broadband Router
+  SMCWBR14S-N4,Draft 11n Wifi Router
+  SSA-3296 192.168.1.33,Digital Video Recorder
+  STANNVR-4E 192.168.1.253,1080P Real-time Multi-touch Standalone NVR
+  Sagemcom ADSL Router,(null)
+  Server_Com-Ent (DS418),Synology NAS
+  Serviio (ns318893),Serviio, a DLNA media server
+  SmartSTB
+  T3,T3
+  TDVRL16 10.1.10.249,Digital Video Recorder
+  TL-WR840N,Router inalámbrico N 300Mbps WR840N
+  TL-WR840N,TP-Link Wireless N Router WR840N
+  TL-WR840N,TP-Link 無線 N 路由器 WR840N
+  TL-WR841HP,TP-Link Wireless N Router TL-WR841HP
+  TL-WR841N,TP-Link 無線 N 路由器 WR841N
+  TL-WR849N,Roteador Wireless N 300Mbps
+  TR064 IGD,ZTE Broadband Home Gateway
+  Tenda Wireless-N Broadband router,Tenda Wireless-N Broadband router
+  Tenda Wireless-N Router,Tenda Wireless-N Router
+  Tnas-000025
+  U+tv UHD2
+  UPNP HDS-2020IRPW - 690240459,IP Camera
+  UPNP HDS-2420IRPW - 119835180,IP Camera
+  UPnP Digital Video/Audio Recorder,4 Channel(SD) H.264 DVR(ports:67/68/80)
+  UPnP Digital Video/Audio Recorder,8 Channel(SD) H.264 DVR(ports:67/68/80)
+  UTT Internet Gateway Device,UTT 802.11 SoC Solution
+  UpnpManager,UPnP Device
+  VMG3312-B10A,MitraStar single-chip ADSL router
+  VMG3312-B10B,MitraStar single-chip ADSL router
+  VMI-DVR-3108-SL 192.168.1.5,Digital Video Recorder
+  VOUK-NAS (DS716+),Synology NAS
+  WAP3205v2,WAP3205v2
+  WBR-6005,150M N wireless Router
+  WPS Access Point,Kit1700Duo
+  Wireless Router,Wireless Router
+  XBR-55X700D
+  Xiaomi MediaRenderer
+  ZXV10 H108L,ZTE Broadband Home Gateway
+  Zioncom TOTOLINK N300R,Zioncom TOTOLINK N300R
+  ZoneDirector,Ruckus Wireless ZoneDirector
+  daxi,PSTEK Digital Signage
+  eHomeMediaCenter,Rockchip Media Renderer, DLNA(DMR)
+  hermanosingles (DS215j),Synology NAS
+  iNeXT_TV_715: Realtek Media Render,Intel DLNA DMR Using Auto-Generated UPnP Stack
+  msfc (DS418),Synology NAS
+  netis_WF2471 Wireless AP,netis_WF2471 Wireless AP
+  nvr,NVR
+  putmsg(mPingCount);
+  uShare,GeeXboX uShare : UPnP Media Server
+  var model = "LW-N605R";
+  var vendor = "LINK-NET";
+  wiki-content
+  荣耀立方
+  -->
+</p>
+
+<p hidden="hidden" id="server">
+    <!--
+  ASUSTeK UPnP/1.0 MiniUPnPd/1.4
+  AirTies/ASP 1.0 UPnP/1.0 miniupnpd/1.0
+  Apache-Coyote/1.1
+  Boa/0.94.13
+  Boa/0.94.14rc21
+  Camera Web Server
+  CouchDB/1.6.1 (Erlang OTP/18)
+  DNVRS-Webs
+  DVRDVS-Webs
+  DasanNetwork Solution
+  Debian/4.0 UPnP/1.0 miniupnpd/1.0
+  GoAhead-Webs
+  HTTP Server
+  Hikvision-Webs
+  IPCamera-Webs
+  JAWS/1.0 Jan 21 2017
+  LINUX-2.6 UPnP/1.0 MiniUPnPd/1.5
+  Linux, HTTP/1.1, DIR-860L Ver 1.01
+  Linux/2.6.18 UPnP/1.0 miniupnpd/1.0
+  Linux/2.x UPnP/1.0 Avtech/1.0
+  Linux/3.4.39 UPnP/1.0 Cling/2.0
+  Linux/3.10.0 eHomeMediaCenter/1.0
+  Linux/3.10.33 UPnP/1.0 Teleal-Cling/1.0
+  Linux/3.10.104 eHomeMediaCenter/1.0
+  Linux/3.14.29 CyberHTTP/1.0
+  MIPS LINUX/2.4 UPnP/1.0 miniupnpd/1.0
+  Mbedthis-Appweb/2.4.0
+  Microsoft-HTTPAPI/2.0
+  Microsoft-IIS/6.0
+  Microsoft-NetCore/2.0, UPnP/1.0 DLNADOC/1.50
+  Mikrotik HttpProxy
+  Mini web server 1.
+  Mini web server 1.0 ZTE corp 2005.
+  Net-OS 5.xx UPnP/1.0
+  NetEVI/3.10
+  Network Camera with Pan/Tilt
+  PanWeb Server/ -
+  RomPager/4.07 UPnP/1.0
+  Router Webserver
+  Servlet 2.5; JBoss-5.0/JBossWeb-2.1
+  Servlet/2.5 JSP/2.1
+  SonicWALL
+  Spark
+  TP-LINK Router
+  UPnP/1.0 DLNADOC/1.50 Allwinnertech/0.1.0
+  UPnP/1.0 DLNADOC/1.50 Platinum/1.0.5.13
+  Unspecified, UPnP/1.0, Unspecified
+  VB
+  WebServer
+  Windows Server 2008 R2, UPnP/1.0 DLNADOC/1.50, Serviio/1.8
+  Xavante 2.2.0 embeded
+  axhttpd/1.5.3
+  gen5th/1.33.00
+  http server 1.0
+  lighttpd/1.4.28
+  lighttpd/1.4.35
+  lighttpd/1.4.43
+  micro_httpd
+  minhttpd
+  mini_httpd/1.19 19dec2003
+  miniupnpd/1.0 UPnP/1.0
+  nginx/1.8.0
+  uc-httpd 1.0.0
+  uc-httpd/1.0.0
+  ssh
+  mysql
+  mongodb
+
+  -->
+</p>
+
+</html>
